@@ -24,4 +24,11 @@ The data for this project was scrapped on the 11th of August from [www.thinkspai
 To visualize the most common words in houses advertisement text, I made use of word cloud 
 
 
-![alt text](Barcelona-flow-chat.jpg)
+![alt text](w1.jpg)
+
+## Model Development
+
+I carried out multiple modeling method which including Random Forests and  Multiple Linear Regression for price prediction
+with Bedroom, Bathroom, Building size and plot of land as the Predictor variable, and  Bags-of-words,  TF-IDF for price prediction with advertisement description text as the Predictor variable
+
+ 
