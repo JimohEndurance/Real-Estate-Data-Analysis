@@ -1,5 +1,5 @@
 # Real-Estate-Data-Analysis
-## Barcelona province housing price prediction. [Click]() here for the full article.
+## Barcelona province housing price prediction. [Click](https://endurancejim.github.io/portfolio.html) here for the full article.
 
 This Project is all about price prediction of houses within Barcelona province.
 I felt it would be interesting to gain an insight about the pricing of residential 
@@ -36,6 +36,7 @@ with Bedroom, Bathroom, Building size and plot of land as the Predictor variable
 With our final models, and the data understanding we’ve gained throughout this project process, we can now answer our original question of which factors are most influential in predicting the price of Barcelona real estate, and how we can improve our estimation. The features building size and bathroom were highly correlated with Price of various houses, including the house descriptions gave us great insight into the condition of the property and this further greatly improved the model.
 
 Relevant Links
+
 *[Tableau Dashboard](#)
 
 *[Personal Website](https://endurancejim.github.io/portfolio.html)
