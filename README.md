@@ -31,4 +31,6 @@ To visualize the most common words in houses advertisement text, I made use of w
 I carried out multiple modeling method which including Random Forests and  Multiple Linear Regression for price prediction
 with Bedroom, Bathroom, Building size and plot of land as the Predictor variable, and  Bags-of-words,  TF-IDF for price prediction with advertisement description text as the Predictor variable
 
- 
+## Conclusion
+
+With our final models, and the data understanding we’ve gained throughout this project process, we can now answer our original question of which factors are most influential in predicting the price of Barcelona real estate, and how we can improve our estimation. The features building size and bathroom were highly correlated with Price of various houses, including the house descriptions gave us great insight into the condition of the property and this further greatly improved the model.
