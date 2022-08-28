@@ -16,3 +16,12 @@ In the Jupyter Notebook, you will leearn how I carried out the following steps f
 
 ![alt text](Barcelona-flow-chat.jpg)
 
+## Web Scrapping
+
+The data for this project was scrapped on the 11th of August from [www.thinkspain](), I concentrated on data from houses that has details on Bedroom, Bathroom, Building size and plot of land and skip data on house that doesn't have details for this 4 variables for uniformity sake. All of this data was extracted from the very first web page of various locations within Barcelona province
+
+## Word Cloud
+To visualize the most common words in houses advertisement text, I made use of word cloud 
+
+
+![alt text](Barcelona-flow-chat.jpg)
