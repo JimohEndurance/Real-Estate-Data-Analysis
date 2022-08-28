@@ -1,5 +1,5 @@
-## Real-Estate-Data-Analysis
-Barcelona province housing price prediction
+# Real-Estate-Data-Analysis
+## Barcelona province housing price prediction
 
 This Project is all about price prediction of houses within Barcelona province.
 I felt it would be interesting to gain an insight about the pricing of residential 
